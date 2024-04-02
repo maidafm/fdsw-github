@@ -14,6 +14,10 @@ body {
     background-color: magenta; 
     color: white; 
   }
+
+  .pink-font {
+    color: pink;
+  }
 }
 
 /* Hero Section */
@@ -43,7 +47,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: pink;
 }
 
 @media (max-width: 768px) {
