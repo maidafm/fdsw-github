@@ -1,5 +1,19 @@
 body {
   font-family: "Raleway", sans-serif;
+
+  .bg-pink {
+    background-color: pink;
+  }
+
+  .btn-outline-pink {
+    color: magenta;
+    border-color: magenta; 
+  }
+
+  .btn-outline-pink:hover {
+    background-color: magenta; 
+    color: white; 
+  }
 }
 
 /* Hero Section */
@@ -24,6 +38,7 @@ body {
   background-position: center;
 }
 
+
 /* Contacto */
 
 #Contacto form label {
@@ -39,5 +54,7 @@ body {
   .navbar-brand{
     width: 100px;
   }
+
+  
 
 }
